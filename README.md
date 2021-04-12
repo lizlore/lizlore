@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nova Solutions**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Backend with Node JS**
 
 - 📫 How to reach me **lizlore7@gmail.com**
 
